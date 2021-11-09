@@ -1,22 +1,12 @@
 [
   {
-    "id": 0,
-    "name": "Telegram",
-    "link": "https://t.me/smakosh"
-  },
-  {
     "id": 1,
     "name": "Github",
-    "link": "https://github.com/smakosh"
+    "link": "https://github.com/Gabriel1590"
   },
   {
     "id": 2,
-    "name": "StackOverflow",
-    "link": "https://stackoverflow.com/users/story/7396786"
-  },
-  {
-    "id": 3,
-    "name": "Twitter",
-    "link": "https://twitter.com/smakosh"
+    "name": "LinkedIn",
+    "link": "https://www.linkedin.com/in/gabriel-escorche/"
   }
 ]

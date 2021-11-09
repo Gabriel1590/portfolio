@@ -1,0 +1,38 @@
+[
+  {
+    "name": "react-auto-generator",
+    "url": "https://github.com/Gabriel1590/react-auto-generator",
+    "languages": ["JavaScipt", "Typescript", "NodeJS", "React"],
+    "description": "Create a new project in react with a simple command. Select wich template you like and get started and which features would you like it to have."
+  },
+  {
+    "name": "Petgram",
+    "url": "https://petgram-gabriel1590.vercel.app/",
+    "languages": ["JavaScipt", "React", "Vercel"],
+    "description": "A simple app to see your pets. You can add, delete and edit your pets."
+  },
+  {
+    "name": "Bolution",
+    "url": "https://www.youtube.com/watch?v=lY2f-DQR-wU",
+    "languages": ["Typescript", "Angular", "Ionic", "Express", "NodeJS", "EthersJS"],
+    "description": "A crypto wallet with its own ERC20 Token in the Ethereum Blockchain."
+  },
+  {
+    "name": "Chat Socket",
+    "url": "https://chat-socket-gabriel.herokuapp.com/",
+    "languages": ["Typescript", "Express", "NodeJS", "Socket.io"],
+    "description": "A simple chat app with socket.io."
+  },
+  {
+    "name": "Hospitalitos de la Fé",
+    "url": "https://play.google.com/store/apps/details?id=hospitalitos.de.la.fe.pvc&hl=es_VE&gl=US",
+    "languages": ["Typescript", "Angular", "Ionic", "NextJS"],
+    "description": "An eBook created for a priest, making easiest the task of sharing his knowledge with an easier and cleanest design."
+  },
+  {
+    "name": "School Library",
+    "url": "https://github.com/Gabriel1590/school-library",
+    "languages": ["Ruby"],
+    "description": "A simple Ruby terminal implementation of a school library"
+  }
+]

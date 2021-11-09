@@ -21,6 +21,9 @@ const NavbarLinks = ({ desktop }: NavbarLinksProps) => {
       <Link href="#contact">
         <a>Contact</a>
       </Link>
+      <Link href="/files/resume_gabriel_escorche.pdf" passHref>
+        <a target="_blank">Resume</a>
+      </Link>
       <ToggleTheme />
     </Wrapper>
   );

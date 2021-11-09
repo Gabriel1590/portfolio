@@ -3,11 +3,7 @@ import { NextSeo } from 'next-seo';
 
 const { url, defaultDescription, defaultTitle } = config;
 
-const SEO = ({
-  location = url,
-  title = defaultTitle,
-  description = defaultDescription,
-}) => (
+const SEO = ({ location = url, title = defaultTitle, description = defaultDescription }) => (
   <NextSeo
     title={title}
     description={description}
@@ -30,26 +26,6 @@ const SEO = ({
       },
       {
         property: 'og:image',
-        content: `${url}/assets/thumbnail/thumbnail.png`,
-      },
-      {
-        name: 'twitter:url',
-        content: `${url}${location}`,
-      },
-      {
-        name: 'twitter:title',
-        content: title,
-      },
-      {
-        name: 'twitter:description',
-        content: description,
-      },
-      {
-        name: 'twitter:image:src',
-        content: `${url}/assets/thumbnail/thumbnail.png`,
-      },
-      {
-        name: 'twitter:image',
         content: `${url}/assets/thumbnail/thumbnail.png`,
       },
     ]}

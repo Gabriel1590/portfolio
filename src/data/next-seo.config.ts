@@ -1,24 +1,18 @@
 export default {
-  title: 'John Doe',
-  description: 'I’m John and I’m a Backend & Devops engineer!',
+  title: 'Gabriel Escorche',
+  description: 'I’m Gabriel and I’m a Full Stack Web Developer!',
   openGraph: {
     type: 'website',
     locale: 'en_US',
-    url: 'https://portfolio-next.smakosh.com/',
-    site_name: 'Portfolio Next',
+    url: 'https://gabrielescorche.com',
+    site_name: 'Portfolio Gabriel Escorche',
     images: [
       {
-        url:
-          'https://portfolio-next.smakosh.com/assets/thumbnail/thumbnail.png',
+        url: 'https://portfolio-next.smakosh.com/assets/thumbnail/thumbnail.png',
         width: 1200,
         height: 600,
-        alt: 'I’m John and I’m a Backend & Devops engineer!',
+        alt: 'I’m Gabriel and I’m a Full Stack Web Developer!',
       },
     ],
-  },
-  twitter: {
-    handle: '@smakosh',
-    site: '@smakosh',
-    cardType: 'summary_large_image',
   },
 };
