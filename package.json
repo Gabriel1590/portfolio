@@ -10,7 +10,6 @@
     "gen": "graphql-codegen --config codegen.yml"
   },
   "dependencies": {
-    "@sendgrid/mail": "^7.6.0",
     "axios": "^0.21.4",
     "formik": "^2.2.6",
     "next": "^12.0.1",
@@ -24,9 +23,6 @@
     "yup": "^0.32.9"
   },
   "devDependencies": {
-    "@graphql-codegen/cli": "1.21.5",
-    "@graphql-codegen/typescript": "1.22.1",
-    "@graphql-codegen/typescript-operations": "^1.18.0",
     "@octokit/graphql-schema": "^10.42.0",
     "@types/node": "^16.0.0",
     "@types/nodemailer": "^6.4.4",
