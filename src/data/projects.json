@@ -2,14 +2,20 @@
   {
     "name": "react-auto-generator",
     "url": "https://github.com/Gabriel1590/react-auto-generator",
-    "languages": ["JavaScipt", "Typescript", "NodeJS", "React"],
-    "description": "Create a new project in react with a simple command. Select wich template you like and get started and which features would you like it to have."
+    "languages": ["JavaScript", "Typescript", "NodeJS", "React"],
+    "description": "Create a new project in react with a simple command. Select which temple would you like to implement and establish which features would you like to it to have. Let's get started!"
   },
   {
     "name": "Petgram",
     "url": "https://petgram-gabriel1590.vercel.app/",
-    "languages": ["JavaScipt", "React", "Vercel"],
+    "languages": ["JavaScript", "React", "Vercel"],
     "description": "A simple app to see your pets. You can add, delete and edit your pets."
+  },
+  {
+    "name": "Algorithms Visualizer",
+    "url": "https://Gabriel1590.github.io/visualizer",
+    "languages": ["Typescript", "React"],
+    "description": "Visualize common software algorithms in a click"
   },
   {
     "name": "Bolution",
